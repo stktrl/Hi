@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stktrl&label=Profile%20views&color=0e75b6&style=flat" alt="stktrl" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Docker**
+- 🌱 I’m currently learning **Node.js, Docker, Go**
 
 - 📫 How to reach me **tugrulyukseel@gmail.com**
 
